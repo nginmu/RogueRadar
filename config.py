@@ -1,3 +1,3 @@
-WINDOW_TITLE = "Highly Modular GUI Example"
+WINDOW_TITLE = "Rogue Radar WiFi Monitor"
 WINDOW_SIZE = "500x400"
-TAB_NAMES = ["Main Tab", "Second Tab"]
+TAB_NAMES = ["WiFi activity", "Ignore list"]
