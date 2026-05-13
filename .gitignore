@@ -3,7 +3,24 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
-*.swp
-*.DS_Store
+
+# Virtual environments
 .env/
 .venv/
+venv/
+
+# Editors / IDEs
+.vscode/
+.idea/
+
+# Linux temp/editor junk
+*.swp
+*~
+.cache/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
